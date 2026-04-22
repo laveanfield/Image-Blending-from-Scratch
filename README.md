@@ -50,7 +50,6 @@ To create a mask, use [GIMP](https://www.gimp.org/): open the source image, use 
 
 ```python
 IMAGE_NAME        = "01.jpg"
-BLEND_TYPE        = 2       # 0: naive | 1: laplacian | 2: poisson
 GRAD_MIX          = True    # Poisson only: use mixed gradients
 NUM_LEVELS        = 3       # Laplacian only: pyramid levels
 USE_MANUAL_OFFSET = False   # True: use MANUAL_OFFSETS | False: interactive selector
