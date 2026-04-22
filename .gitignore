@@ -1,8 +1,8 @@
 # Data
-data/source/
-data/mask/
-data/target/
-data/result/
+# data/source/
+# data/mask/
+# data/target/
+# data/result/
 
 # Python
 __pycache__/
