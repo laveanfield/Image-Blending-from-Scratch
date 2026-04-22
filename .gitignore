@@ -1,0 +1,14 @@
+# Data
+data/source/
+data/mask/
+data/target/
+data/result/
+
+# Python
+__pycache__/
+*.py[cod]
+# .ipynb_checkpoints/
+
+# Env
+.env
+venv/
