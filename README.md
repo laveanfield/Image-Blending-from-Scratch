@@ -83,9 +83,20 @@ Gradient-domain method that finds a result image whose gradients best match the 
 
 ## Results
 
-| <img src="data/result/03_naive.jpg" /> | <img src="data/result/03_laplacian.jpg" /> | <img src="data/result/03_poisson.jpg" /> |
-|:---:|:---:|:---:|
-| Naive | Laplacian | Poisson |
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="data/result/03_naive.jpg" width="100%" /></td>
+      <td><img src="data/result/03_laplacian.jpg" width="100%" /></td>
+      <td><img src="data/result/03_poisson.jpg" width="100%" /></td>
+    </tr>
+    <tr>
+      <td align="center">Naive</td>
+      <td align="center">Laplacian</td>
+      <td align="center">Poisson</td>
+    </tr>
+  </table>
+</div>
 
 ## References
 
