@@ -83,7 +83,15 @@ Gradient-domain method that finds a result image whose gradients best match the 
 
 ## Results
 
-Place output images here after running `demo.ipynb`.
+<p align="center">
+  <img src="data/result/naive.png" width="30%" />
+  <img src="data/result/laplacian.png" width="30%" />
+  <img src="data/result/poisson.png" width="30%" />
+</p>
+
+<p align="center">
+  Naive &nbsp;&nbsp;&nbsp; Laplacian &nbsp;&nbsp;&nbsp; Poisson
+</p>
 
 ## References
 
