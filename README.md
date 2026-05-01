@@ -82,23 +82,21 @@ Decomposes source, target, and mask into Gaussian/Laplacian pyramids, then blend
 Gradient-domain method that finds a result image whose gradients best match the source gradients inside the mask, subject to the target's boundary conditions. Reduces to solving a sparse linear system `Lf = b` per colour channel. Supports mixed gradients (`GRAD_MIX=True`) for better handling of semi-transparent objects.
 
 ## Results
-
 The images below demonstrate the output of each method using a sample input.
-
+*Naive copy*
 <p align="center">
-  <em>Naive Copy</em><br>
   <img src="data/result/03_naive.jpg" width="60%" />
 </p>
 
-<p align="center">
-  <em>Laplacian Blending</em><br>
-  <img src="data/result/03_laplacian.jpg" width="60%" />
-</p>
 
+*Laplacian Blending*
 <p align="center">
-  <em>Poisson Blending</em><br>
+  <img src="data/result/03_laplacian.jpg" width="60%" />
+
+
+*Poisson Blending*
+<p align="center">
   <img src="data/result/03_poisson.jpg" width="60%" />
-</p>
 
 
 ## References
