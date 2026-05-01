@@ -84,18 +84,16 @@ Gradient-domain method that finds a result image whose gradients best match the 
 ## Results
 *Naive copy*
 <p align="center">
-  <img src="data/result/03_naive.jpg" width="30%" />
-  <img src="data/result/03_laplacian.jpg" width="30%" />
-  <img src="data/result/03_poisson.jpg" width="30%" />
+  <img src="data/result/03_naive.jpg" width="90%" />
 </p>
 
 *Laplacian Blending*
 <p align="center">
-  <img src="data/result/03_laplacian.jpg" width="30%" />
+  <img src="data/result/03_laplacian.jpg" width="90%" />
 
 *Poisson Blending*
 <p align="center">
-  <img src="data/result/03_poisson.jpg" width="30%" />
+  <img src="data/result/03_poisson.jpg" width="90%" />
 
 
 ## References
