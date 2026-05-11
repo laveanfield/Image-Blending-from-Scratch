@@ -104,3 +104,12 @@ The images below demonstrate the output of each method using a sample input.
 - Burt, P., & Adelson, E. (1983). *The Laplacian pyramid as a compact image code*. IEEE Transactions on Communications.
 - Arnebäck, E. *Laplacian Pyramids*.
 - Salazar Cavazos, J. *Image Blending*.
+
+## License
+
+This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
+
+
+## Author
+
+laveanfield — https://github.com/laveanfield
